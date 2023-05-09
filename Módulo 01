@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tags e seus significados/usos</title>
+  </head>
+  <body>
+    <h1>Título Principal</h1>
+    <h2>Título Secundário</h2>
+    <h3>Título Terciário</h3>
+    <h4>Título Quaternário</h4>
+    <h5>Título Quinário</h5>
+    <h6>Título Senário</h6>
+    <p>Este é um parágrafo de texto.</p>
+    <p><mark>Este texto está destacado com a tag mark.</mark></p>
+    <p><small>Este texto está em tamanho menor com a tag small.</small></p>
+    <p><i>Este texto está em itálico com a tag i.</i></p>
+    <p><u>Este texto está sublinhado com a tag u.</u></p>
+    <p><strong>Este texto está em negrito com a tag strong.</strong></p>
+    <ol>
+      <li>Item de lista ordenada 1</li>
+      <li>Item de lista ordenada 2</li>
+      <li>Item de lista ordenada 3</li>
+    </ol>
+    <ul>
+      <li>Item de lista não ordenada 1</li>
+      <li>Item de lista não ordenada 2</li>
+      <li>Item de lista não ordenada 3</li>
+    </ul>
+    <li>Item de lista 1</li>
+    <li>Item de lista 2</li>
+    <li>Item de lista 3</li>
+    <a href="https://www.google.com">Este é um link para o Google</a>
+    <hr>
+    <sub>Este texto está em subscrito com a tag sub.</sub>
+    <sup>Este texto está em sobrescrito com a tag sup.</sup>
+    <blockquote>Este é um exemplo de citação com a tag blockquote.</blockquote>
+    <del>Este texto está riscado com a tag del.</del>
+    <p>Este é um exemplo de uma abreviação: <abbr title="Organização das Nações Unidas">ONU</abbr>.</p>
+  </body>
+</html>
